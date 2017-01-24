@@ -2,6 +2,7 @@ languageCode = "en-us"
 title = "Shiny Rocks LLC"
 baseurl = "http://shinyrocksllc.com/"
 theme = "dimension"
+publishDir = "docs"
 
 [params]
   title = "Shiny Rocks LLC"
